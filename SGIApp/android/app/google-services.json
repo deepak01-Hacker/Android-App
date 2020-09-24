@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "973907809393",
+    "firebase_url": "https://sgiapp-403f2.firebaseio.com",
+    "project_id": "sgiapp-403f2",
+    "storage_bucket": "sgiapp-403f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973907809393:android:1a4c28f6a24091796a77d0",
+        "android_client_info": {
+          "package_name": "com.example.SGIApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973907809393-b9d95s49alsiqi6ol9v0f02ccei2ftae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhi1GyZQrFJeY7w74-Jub3CF5Ujy8JM6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973907809393-b9d95s49alsiqi6ol9v0f02ccei2ftae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
